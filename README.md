@@ -20,7 +20,7 @@
 <details><summary>Deploy To Koyeb</summary>
 <p>
 <br>                 
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT&branch=main&name=pyro-rename-bot">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Srehrix/PYRO-RENAME-BOT&branch=main&name=ccrenamebot">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
 </a>
 </p>
